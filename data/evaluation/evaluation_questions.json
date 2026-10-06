@@ -1,0 +1,42 @@
+[
+    {
+        "id": "Q1",
+        "question": "What changed in commit c03a416427418c2e891aa62c28a4045d2fd29e14?",
+        "expected_commit": "c03a416427418c2e891aa62c28a4045d2fd29e14"
+    },
+    {
+        "id": "Q2",
+        "question": "What changed in commit 1fbfd595984bbc404e188c02af5633c8356e2cee?",
+        "expected_commit": "1fbfd595984bbc404e188c02af5633c8356e2cee"
+    },
+    {
+        "id": "Q3",
+        "question": "What changed in commit 7d1a2800cf65c70aff8b1da50f9bf515dc2197f5?",
+        "expected_commit": "7d1a2800cf65c70aff8b1da50f9bf515dc2197f5"
+    },
+    {
+        "id": "Q4",
+        "question": "What changed in commit ce63efccc55eb3952bbc5b3abcf3d07f9836327c?",
+        "expected_commit": "ce63efccc55eb3952bbc5b3abcf3d07f9836327c"
+    },
+    {
+        "id": "Q5",
+        "question": "What changed in commit 5f9fc5c59a9bb54608aa35376715f3ba9708188e?",
+        "expected_commit": "5f9fc5c59a9bb54608aa35376715f3ba9708188e"
+    },
+    {
+        "id": "Q6",
+        "question": "Which file was modified in the release notes update?",
+        "expected_commit": "1fbfd595984bbc404e188c02af5633c8356e2cee"
+    },
+    {
+        "id": "Q7",
+        "question": "Which translation was added by commit c03a416427418c2e891aa62c28a4045d2fd29e14?",
+        "expected_commit": "c03a416427418c2e891aa62c28a4045d2fd29e14"
+    },
+    {
+        "id": "Q8",
+        "question": "Which repository contains these commits?",
+        "expected_commit": "c03a416427418c2e891aa62c28a4045d2fd29e14"
+    }
+]
